@@ -1,4 +1,4 @@
-# mongodb_co
+# mongodb-co
 node-mongodb-native CURD will return a Promise if no callback passed, and co() returns a promise now, so we can use node-mongodb-native with co nicely.
 
 ## Requirement

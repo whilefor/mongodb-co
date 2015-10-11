@@ -1,5 +1,5 @@
 {
-  "name": "mongodb_co",
+  "name": "mongodb-co",
   "version": "1.0.0",
   "description": "node-mongodb-native with co",
   "main": "index.js",
