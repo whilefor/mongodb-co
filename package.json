@@ -1,0 +1,15 @@
+{
+  "name": "mongodb_co",
+  "version": "1.0.0",
+  "description": "node-mongodb-native with co",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "whilefor",
+  "license": "MIT",
+  "dependencies": {
+    "co": "^4.6.0",
+    "mongodb": "^2.0.45"
+  }
+}
